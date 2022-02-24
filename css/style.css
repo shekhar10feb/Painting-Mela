@@ -1,0 +1,21 @@
+.navbar-light .navbar-nav .nav-link {
+    font-weight: 500 !important;
+}
+
+.container-fluid .navbar-brand img {
+    max-width: 70%;
+    max-height: 3em;
+}
+
+.col-md-5 img, .col-md-5:nth-child(2) {
+    border-radius: 1em;
+}
+
+.col-md-5 p {
+    font-size: 110%;
+    color: gray;
+}
+
+.col-md-3 h5 a{
+    text-decoration: none;
+}
